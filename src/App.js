@@ -1,9 +1,9 @@
 import './App.css';
-import { Operation } from './components/Operation';
+import Calculator from './components/Calculator';
 
 function App() {
   return (
-    <Operation />
+    <Calculator />
   );
 }
 
