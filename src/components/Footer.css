@@ -1,0 +1,15 @@
+.Footer{
+    font-size: smaller;
+    width: 100%;
+    text-align: right;
+    background-color: #000000;
+    padding:3%;
+    margin-top: 5%;
+    position: fixed;
+    right: 0;
+    bottom: 0;
+}
+.Footer>h4{
+    color:white;
+    font-weight: 300;
+}
